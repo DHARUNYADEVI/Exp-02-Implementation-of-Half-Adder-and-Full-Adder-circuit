@@ -66,6 +66,3 @@ RTL realization
 ![image](https://github.com/DHARUNYADEVI/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147473847/2ee5927e-fbbc-4303-8894-16c708044b2c)
 ### Result:
 Thus the implementation of half adder and full adder verified successfully.
-### TRUTH TABLE 
-
-### Result:
